@@ -3,7 +3,7 @@
 **Self-taught software developer from Durban, South Africa.**
 I build web apps from the screen your customers see to the database and admin tools behind it.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-1f6feb?style=for-the-badge)](https://YOUR-PORTFOLIO.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-1f6feb?style=for-the-badge)](https://mr-mk-lushaba.web.app/)
 [![Email](https://img.shields.io/badge/Email-minikl9949%40gmail.com-444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minikl9949@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-076%20647%203143-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27766473143)
 
